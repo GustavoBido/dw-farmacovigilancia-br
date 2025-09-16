@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Databricks/Jupyter
+.ipynb_checkpoints/
+.databricks/
+.dbc
+*.dbc
+
+# IDEs
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+
+# Power BI
+# powerbi/*.pbix
